@@ -1,5 +1,5 @@
 {
-  "name": "faker",
+  "name": "@stack-fintech/faker",
   "description": "Generate massive amounts of fake contextual data",
   "version": "4.1.0",
   "contributors": [
@@ -7,7 +7,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/Marak/Faker.js.git"
+    "url": "http://github.com/STACK-Fintech/faker.js.git"
   },
   "scripts": {
     "lint": "node_modules/.bin/jshint ./lib --config ./.jshintrc",
